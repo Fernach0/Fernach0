@@ -70,7 +70,7 @@ Me especializo en el <strong>desarrollo backend</strong>, donde disfruto diseña
 ## 📫 Contáctame
 
 <p align="left">
-  <a href="mailto:nandoelfc@gmail.com">
+  <a href="mailto:nandoelfc@gmail.com"> nandoelfc@gmail.com
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Personal"/> 
   </a>
   <a href="mailto:lfcueva1@espe.edu.ec">
