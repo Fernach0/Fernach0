@@ -2,7 +2,7 @@
 Luis Fernando Cueva Flores
 </h1>
 <h3 align="center">
-  Estudiante de Ingeniería de Software | [cite_start]Apasionado por el Desarrollo Backend [cite: 3, 15]
+  Estudiante de Ingeniería de Software | Especializado en el Desarrollo Backend
 </h3>
 
 <br>
@@ -10,13 +10,13 @@ Luis Fernando Cueva Flores
 ## 👨‍💻 Acerca de Mí
 
 <p align="left">
-  [cite_start]Soy un estudiante de Software con una sólida formación en pensamiento lógico y analítico [cite: 14][cite_start], lo que me permite abordar y resolver problemas complejos de manera eficiente y creativa[cite: 14].
+Soy un estudiante de Software con una sólida formación en pensamiento lógico y analítico, lo que me permite abordar y resolver problemas complejos de manera eficiente y creativa.
   <br><br>
-  [cite_start]Me especializo en el <strong>desarrollo backend</strong>, donde disfruto diseñar y optimizar sistemas robustos, escalables y seguros[cite: 15]. [cite_start]Valoro el trabajo en equipo y la colaboración como pilares fundamentales [cite: 16][cite_start], y estoy en constante búsqueda de nuevos conocimientos y tecnologías emergentes[cite: 17].
+Me especializo en el <strong>desarrollo backend</strong>, donde disfruto diseñar y optimizar sistemas robustos, escalables y seguros. Valoro el trabajo en equipo y la colaboración como pilares fundamentales, y estoy en constante búsqueda de nuevos conocimientos y tecnologías emergentes.
 </p>
 
-- [cite_start]🎓 Actualmente cursando <b>Ingeniería de Software</b> en la <b>Universidad de las Fuerzas Armadas ESPE</b>[cite: 3, 12].
-- [cite_start]📍 Ubicado en Quito, Ecuador[cite: 5].
+- 🎓 Actualmente cursando <b>Ingeniería de Software</b> en la <b>Universidad de las Fuerzas Armadas ESPE</b>.
+- 📍 Ubicado en Quito, Ecuador.
 
 <br>
 
