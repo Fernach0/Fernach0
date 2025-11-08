@@ -1,5 +1,5 @@
 <h1 align="center">
-Luis Fernando Cueva Flores [cite: 1, 2]
+Luis Fernando Cueva Flores
 </h1>
 <h3 align="center">
   Estudiante de Ingeniería de Software | [cite_start]Apasionado por el Desarrollo Backend [cite: 3, 15]
